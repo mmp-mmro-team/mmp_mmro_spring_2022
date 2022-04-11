@@ -77,5 +77,7 @@ _В иных случах эти два курса сдаются каждый �
 | 17 марта | Семинар 6 | <ul><li>Спектральная кластеризация</li><li>Внешняя оценка качества кластеризации</li></ul>  | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2021/blob/main/seminars/lecture17-clusterization.pdf) | [Прак.2 Кластеризация](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/homework-practice/homework-practice-02-unsupervised.ipynb) |
 | 24 марта | Семинар 7 | EM-алгоритм: сходимость, скорость сходимости, связь с градиентным подъёмом | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture15-em.pdf) |¯\\\_(ツ)\_/¯ |
 | 31 марта | Семинар 8 | EM-алгоритм | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem15-em.pdf) | [Прак.3 EM](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/tree/main/homework-practice/homework-practice-09-em) | 
+| 7 апреля | Семинар 9 | Тематическое моделирование | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/seminars/topic_modeling_.ipynb)| ¯\\\_(ツ)\_/¯ | 
+
 
 

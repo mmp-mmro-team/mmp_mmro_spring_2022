@@ -79,7 +79,7 @@ _В иных случах эти два курса сдаются каждый �
 | 31 марта | Семинар 8 | EM-алгоритм | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem15-em.pdf) | [Прак.3 EM](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/tree/main/homework-practice/homework-practice-09-em) | 
 | 7 апреля | Семинар 9 | Тематическое моделирование | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/seminars/topic_modeling_.ipynb)| Контест (kaggle) | 
 | 14 апреля | Семинар 10 | Графовые задачи в ML | <ul><li>[Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2021-spring/seminars/sem17-graph.pdf)</li><li>[Ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2021-spring/seminars/sem17-graph.ipynb)</li></ul>| ¯\\\_(ツ)\_/¯ | 
-| 21 апреля | Семинар 11 | Обучение метрик | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2021/blob/main/seminars/sem20-knn.pdf)| [Прак.4 Обучение метрик и несбалансированные задачи](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/homework-practice/homework-practice-11-metric-learning-imb.ipynb) | 
+| 21 апреля | Семинар 11 | Обучение метрик | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_spring_2021/blob/main/seminars/sem20-knn.pdf)| [Прак.4 Обучение метрик и несбалансированные задачи](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022/blob/main/homework-practice/homework-practice-11-metric-learning-imb) | 
 
 
 
